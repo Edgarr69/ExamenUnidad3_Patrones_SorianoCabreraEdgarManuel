@@ -2,7 +2,7 @@
 # Soriano Cabrera Edgar Manuel
 # Simulador de vuelo con instrumentos personalizados
 # Descripcion General
-Este proyecto simula un sistema de vuelo con decoradores.
+El proyecto consiste en un simulador de vuelo aéreo desarrollado en C# (consola), diseñado para permitir a los usuarios personalizar sus vuelos mediante la selección de tipos de clase y la incorporación de servicios adicionales de manera dinámica.
 
 # Ejecución
 
