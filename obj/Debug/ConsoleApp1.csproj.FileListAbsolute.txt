@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\edgar\source\repos\Patrones de diseño\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
